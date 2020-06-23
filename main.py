@@ -1,3 +1,5 @@
+# Licenced under the CC BY-NC-SA 4.0 licence: by modifying any code you agree to be bound by the terms of the licence: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 import asyncio
 from math import floor
 
