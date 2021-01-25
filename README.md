@@ -1,3 +1,7 @@
+# ARCHIVED
+See https://github.com/covid-19-discord-bot/covid-bot-v5
+
+
 # COVID-19 Discord Bot
 A bot to give live stats on the COVID-19 pandemic: simple as that: but that's not the only feature it has!
 This bot has:
